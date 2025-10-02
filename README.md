@@ -1,4 +1,4 @@
-# papa-bigboss
+# bigboss-nob_project
 primer repo creado en github
 
 ## descripción 
